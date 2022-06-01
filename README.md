@@ -1,34 +1,27 @@
 ### Hey 👋🏽, I'm [Pavithra!](https://pavi87.github.io) 
 
-<a href="https://twitter.com/pavi87">
-  <img align="left" alt="pavi87 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/pavithradealwis">
+  <img align="left" alt="@pavithradealwis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/adarshreddyash/">
-  <img align="left" alt="Adarshreddyash LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/pavithra-de-alwis-31673516/">
+  <img align="left" alt="PavithraDeAlwis LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/adarshreddyash/">
-  <img align="left" alt="Adarshreddyash Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://medium.com/@pavithradealwis">
+  <img align="left" alt="PavithraDeAlwis Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <br />
 <br />
-
-Hi, I'm Adarshreddy, a Full Stack Developer 🚀 from India, currently, I'm a Blogger 🙍🏽‍♂️ [@GSPACE](https://glammingspace.blogspot.com), Freelancer 👨🏽‍💻, Beside's programming, I enjoy podcasts and traveling.
-  
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on [Ronix](https://github.com/Adarshreddyash/ronix-frontend);
-- 🌱 I’m currently learning GraphQL ,typescript and Kubernetes; 
-- 👯 I’m looking to collaborate on [Ronix](https://github.com/Adarshreddyash/ronix-frontend) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Vengixlabs:My future Project which helps in R&D for companies. 
-- 📫 How to reach me: adarshreddy9849@gmail.com;
-- 📝[Resume](https://adarshreddyash.me/assets/Adarshreddy's%20Resume.pdf)
+Welcome to my page!!
+I am a passionate software engineer with an attitude to make things happen. I have 10+ years of experience developing enterprise applications using J2EE technologies as a member of an Agile team with a strong experience in Agile processes and Scrum methodologies. I always combine best practices in designing, development and testing to deliver the best solution. I am keen on learning new technologies while using my experience as a platform. I have successfully completed my master’s and a bachelor’s degrees specializing in Computer Science.
+<br />
+<br />
+ 
+- 📫 How to reach me: pavithradealwis@gmail.com;
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=react&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Angular-45b8d8?style=flat-square&logo=react&logoColor=white"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/django-12-1175186.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
@@ -42,6 +35,6 @@ Hi, I'm Adarshreddy, a Full Stack Developer 🚀 from India, currently, I'm a Bl
 
 
 
-![Adarshreddy's github stats](https://github-readme-stats.vercel.app/api?username=adarshreddyash&show_icons=true&hide_border=true)
+![Pavithra's github stats](https://github-readme-stats.vercel.app/api?username=pavi87&show_icons=true&hide_border=true)
 
 //credits to creators
