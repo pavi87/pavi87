@@ -9,6 +9,11 @@
 <a href="https://medium.com/@pavithradealwis">
   <img align="left" alt="PavithraDeAlwis Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+<a href="https://stackoverflow.com/users/259281/pavithracs?tab=profile">
+  <img align="left" alt="PavithraDeAlwis stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+
+
 <br />
 <br />
 Welcome to my page!!
