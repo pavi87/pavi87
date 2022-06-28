@@ -25,7 +25,7 @@ I am a passionate software engineer with an attitude to make things happen. I ha
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=react&logoColor=white"></code>
+<!--<code><img height="20" src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=react&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/-Angular-45b8d8?style=flat-square&logo=react&logoColor=white"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/django-12-1175186.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
@@ -36,7 +36,7 @@ I am a passionate software engineer with an attitude to make things happen. I ha
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>-->
 
 
 
